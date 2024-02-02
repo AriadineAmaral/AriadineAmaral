@@ -4,8 +4,8 @@
 
 <div>
  <a href="https://github.com/AriadineAmaral">
-<img height="175em"  src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="175em"  src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula"/>
+<img height="170em"  src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em"  src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula"/>
        
 </div>
 
@@ -32,5 +32,5 @@
 
 
 ![Snake animation](https://github.com/AriadineAmaral/AriadineAmaral/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/AriadineAmaral/AriadineAmaral/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/AriadineAmaral/AriadineAmaral/blob/output/github-contribution-grid-snake.svg)
 
