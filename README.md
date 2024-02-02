@@ -10,7 +10,7 @@
 </div>
   
 ##
-<div style= "display: inline-block"><br>
+<div align="end" style= "display: inline-block">
 
 <img align="center" alt="ícone-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30"/>
 <img align="center" alt="ícone-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="30"/>
@@ -21,9 +21,9 @@
 <img align="center" alt="ícone-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="45"/>         
 </div>
 
-##
 
-<div><br>
+
+<div align="end"><br>
  <a href="https://instagram.com/_arih" target="_blank"><img align="center" loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@ariadinevamaral@gmail.com"><img align="center" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ari%C3%A1dine-vieira-amaral-438153181/" target="_blank"><img align="center" loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
