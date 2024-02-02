@@ -5,8 +5,8 @@
 
 <div align="center">
  <a href="https://github.com/AriadineAmaral">
-<img height="140em" align="center" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="140em" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula&bg_color=0d1117"/>    
+<img width="500em" height="140em" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img width="500em" height="140em"  src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula&bg_color=0d1117"/>    
 </div>
 
 
