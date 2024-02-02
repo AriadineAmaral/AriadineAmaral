@@ -1,12 +1,12 @@
-### Prazer, Ariádine  :D
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ariádine+Amaral;I'm+19+years+old;I+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
 
-<div>
+<div align="center">
  <a href="https://github.com/AriadineAmaral">
-<img height="160em" align="center" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula"/>    
+<img height="160em" align="center" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="160em" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula&bg_color=0d1117"/>    
 </div>
 
 
