@@ -2,7 +2,8 @@
 
 ##
 
-<div>
+
+<div style= "display: inline-block"><br>
  <a href="https://github.com/AriadineAmaral">
 <img height="175" align="center" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="175" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&theme=dracula"/>    
