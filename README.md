@@ -5,7 +5,7 @@
 
 <div align="center">
  
-<a href="https://github.com/AriadineAmaral"><img height="145em" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&&include_all_commits=true&count_private=true"></a>
+<a href="https://github.com/AriadineAmaral"><img height="145em" src="https://readmestats.999857.xyz/api?username=AriadineAmaral&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/AriadineAmaral"><img height="145em" src="https://readmestats.999857.xyz/api/top-langs/?username=AriadineAmaral&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=0d1117"></a>  
 </div>
   
@@ -30,7 +30,6 @@
 </div>
 
 
-
 ##
 <div align="center">
  
@@ -38,3 +37,4 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/AriadineAmaral/AriadineAmaral/output/snake.svg" alt="Snake animation" />
